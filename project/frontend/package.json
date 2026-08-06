@@ -1,0 +1,12 @@
+{
+  "name": "lcd-vahid-frontend",
+  "version": "1.0.0",
+  "description": "Static frontend server for LCD-Vahid, serving the original HTML pages and proxying nothing else. The Python backend (see ../backend) is called directly from the browser.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,46 @@
+[
+ {
+  "id": "c76284a5-06a6-46a2-8ef8-1c80bf63cc9c",
+  "old_text": "فلت فینگر",
+  "new_text": "فلت فینگر(FLAT FINGER)",
+  "scope_type": "all",
+  "scope_value": null,
+  "case_sensitive": false,
+  "affected_count": 30,
+  "admin_user": "admin",
+  "created_at": "2026-07-05T08:03:22.934461+00:00"
+ },
+ {
+  "id": "4f5bad9a-f363-43fd-9e43-8e40501562d5",
+  "old_text": "برد شارژ",
+  "new_text": "برد شارژ(Board Charging)",
+  "scope_type": "all",
+  "scope_value": null,
+  "case_sensitive": false,
+  "affected_count": 114,
+  "admin_user": "admin",
+  "created_at": "2026-07-05T08:06:40.70229+00:00"
+ },
+ {
+  "id": "f2700240-d957-4529-bf87-62e1b08cc61d",
+  "old_text": "org",
+  "new_text": "ORG 100%",
+  "scope_type": "all",
+  "scope_value": null,
+  "case_sensitive": true,
+  "affected_count": 1,
+  "admin_user": "admin",
+  "created_at": "2026-07-05T08:07:58.170478+00:00"
+ },
+ {
+  "id": "4524a688-c823-4e99-b6d9-478b128832fa",
+  "old_text": "FRAME",
+  "new_text": "FRAME LCD",
+  "scope_type": "all",
+  "scope_value": null,
+  "case_sensitive": false,
+  "affected_count": 41,
+  "admin_user": "admin",
+  "created_at": "2026-07-05T08:21:00.376593+00:00"
+ }
+]

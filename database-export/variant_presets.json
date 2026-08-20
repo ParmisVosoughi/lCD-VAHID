@@ -1,0 +1,15 @@
+[
+ {
+  "id": "a5b1d951-f3c1-4fa8-b81c-f675b183fb83",
+  "slug": "default",
+  "names": [
+   {
+    "name": "pack w/f",
+    "text_color": "#000000",
+    "badge_color": "#fdf7f7"
+   }
+  ],
+  "created_at": "2026-06-30T08:03:30.634132+00:00",
+  "updated_at": "2026-08-17T13:28:38.721251+00:00"
+ }
+]

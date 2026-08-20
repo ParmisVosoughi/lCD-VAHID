@@ -1,0 +1,1 @@
+ALTER TABLE public.product_variants ADD COLUMN IF NOT EXISTS text_color text NOT NULL DEFAULT '#ffffff';
